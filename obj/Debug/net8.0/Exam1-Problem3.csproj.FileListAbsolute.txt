@@ -1,0 +1,14 @@
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\bin\Debug\net8.0\Exam1-Problem3.exe
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\bin\Debug\net8.0\Exam1-Problem3.deps.json
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\bin\Debug\net8.0\Exam1-Problem3.runtimeconfig.json
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\bin\Debug\net8.0\Exam1-Problem3.dll
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\bin\Debug\net8.0\Exam1-Problem3.pdb
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.AssemblyInfoInputs.cache
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.AssemblyInfo.cs
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.csproj.CoreCompileInputs.cache
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.dll
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\refint\Exam1-Problem3.dll
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.pdb
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\Exam1-Problem3.genruntimeconfig.cache
+C:\Users\eddie\source\repos\Exam1-Problem3\Exam1-Problem3\obj\Debug\net8.0\ref\Exam1-Problem3.dll
